@@ -1,0 +1,14 @@
+.footer__title {
+    position: fixed;
+    height: 48px;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    background-color: #b3a99c;
+    font-size: 24px;
+    right: 0;
+    line-height: 48px;
+    font-weight: 800;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+}
