@@ -5,7 +5,7 @@ export const userSlice = createSlice({
     initialState: {
         name: "Trịnh Nhật",
         age: 20,
-        desc: "Lớp gì? Lớp Linh",
+        desc: "Lớp gì? Lớp Giang",
         avatar: "https://preview.redd.it/rrz3hmsxcll71.png?width=640&crop=smart&auto=webp&s=87cc5ed38d8f088ef9fffef7a4c5756b64309d6a",
         themeColor: "#ff9851",
         loading: false,
